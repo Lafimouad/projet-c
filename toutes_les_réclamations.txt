@@ -1,0 +1,7 @@
+Vol je_reclame 5 je_reponds
+Hotel je_reclame2 5 je_reponds
+Vol je_reclame3 0 N/A
+Hotel je_reclame4 0 N/A
+Vol je_reclame5 1 N/A
+Vol je_reclame6 1 N/A
+Vol fffff 0 N/A
